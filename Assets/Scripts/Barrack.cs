@@ -76,7 +76,7 @@ public class Barrack : MonoBehaviour
         {
             if (tile.IsClear())
             {
-                tile.SetCreatable();
+                tile.SetCreatable(); // TEST TO EVALUATE GITHUB
             }
         }
     }
